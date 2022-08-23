@@ -1,0 +1,11 @@
+workfiles/
+target/
+build/
+.gradle/
+.idea/
+*.iml
+*.tmp
+*.DS_Store
+package-lock.json
+reports/
+node_modules/
